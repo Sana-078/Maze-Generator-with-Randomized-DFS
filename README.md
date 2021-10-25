@@ -26,6 +26,10 @@ Randomized-DFS: This algorithm, also known as the "recursive backtracker" algori
 
 ![](images/maze_creation.png)
 
+* User solving the 25x25 maze
+
+![](images/user_solve_img.png)
+
 * Solving the maze using DFS<br>
 
 ![](images/dfs_solve.png)

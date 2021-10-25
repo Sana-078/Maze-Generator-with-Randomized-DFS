@@ -14,7 +14,10 @@ Randomized-DFS: This algorithm, also known as the "recursive backtracker" algori
 ## How to Use:
 <pre>
  To create the maze   - Press space bar <br>
- To play              - Use arrow keys ( ↑, ↓, →, ← )	<br>
+ To play              - Use arrow keys ( ↑, ↓, →, ← ) <br>
+ Switch to hard mode  - Press 'h' key <br>
+ Switch back to easy
+ Mode                 - Press 'e' key <br>
  To solve it with DFS - press the left control key <br>
  To solve it with BFS - press the right control key <br>
  To clear the visualisation part - press the 'c' key.

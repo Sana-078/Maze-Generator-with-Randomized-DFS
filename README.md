@@ -23,6 +23,7 @@ Randomized-DFS: This algorithm, also known as the "recursive backtracker" algori
  To clear the visualisation part - press the 'c' key.
 </pre>
 * (note: If you want to see the process of creating the maze in a slower speed then feel free to change the speed - "time.sleep(0.05)" in line 228 ('dfs_maze_build' function).
+* Choose the mode first (easy or hard) before pressing the space bar.(default is easy mode)
 
 ## Demo:
 * 50x50 grid maze creation: <br>
